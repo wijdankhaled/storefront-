@@ -42,7 +42,6 @@ const initialState = {
     }
   };
   
-  //actions
   export const selectCategory = (name) => {
     return {
       type: "ACTIVE",

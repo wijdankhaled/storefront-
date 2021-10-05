@@ -47,7 +47,7 @@ import { connect } from "react-redux";
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}style={{marginLeft:'20px'}} className={classes.title}>
-            MAHMOUD KHADER STORE
+             STORE !!!
           </Typography>
           <MenuItem>
         <IconButton aria-label="show 2 new notifications" color="inherit">
